@@ -1,0 +1,1 @@
+export const API_URL = "https://localhost:7140/api/Personaldetails";
